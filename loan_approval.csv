@@ -1,0 +1,6 @@
+example,income,credit score,employment,collateral,loan 	approval
+1,high,good,yes,yes,yes
+2,medium,bad,no,no,no
+3,high,good,no,yes,yes
+4,medium,good,yes,yes,yes
+5,medium,good,no,no,no
